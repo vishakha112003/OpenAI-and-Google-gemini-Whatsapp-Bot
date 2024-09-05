@@ -6,10 +6,10 @@ from flask import request
 from twilio.rest import Client 
 
 app = Flask(__name__)
-key = "AIzaSyClUcLhtlGCkfudXLJ1_DG2Yi0SypKvDXs" #gemini key
+key = "" #gemini key
 wp_number = "whatsapp:+14155238886"
-acc_id = "AC00980b4fc2515dfbe5224f0ccaa081d0"
-acc_token = "a9820f0173ec594f87e6f0c3791549a7"
+acc_id = ""
+acc_token = "
 
 
 #selecting model
